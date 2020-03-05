@@ -1,8 +1,8 @@
 # MongoDB
 
-##### MongoDB官网:https://mongodb.com/
+##### MongoDB官网:https://mongodb.com
 
-##### 图形化界面Robo 3T官网:<https://robomongo.org/>
+##### 图形化界面Robo 3T官网:https://robomongo.org
 
 ##### MomgoDB安装教程:https://blog.csdn.net/fengtingyan/article/details/88371232
 
@@ -144,4 +144,21 @@ db.stu.find().sort({name:1})
 
 ------
 
-Redis
+# Redis
+
+##### Redis官网:https://redis.io/download(只有Linux版本，并含Docker)
+
+##### Redis的Linux版本安装教程:https://www.runoob.com/redis/redis-install.html
+
+##### Redis的Windows版本下载:https://github.com/microsoftarchive/redis/releases
+
+##### Redis的Windows版本安装教程:https://blog.csdn.net/qq_43571415/article/details/103715019
+
+##### 图形化界面:Redis Desktop Manager官网:https://redisdesktop.com/download
+
+#### 常用命令
+
+```sql
+https://www.runoob.com/redis/redis-tutorial.html
+```
+
