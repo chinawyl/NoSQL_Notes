@@ -8,6 +8,10 @@
 
 ##### MomgoDB安装教程:https://blog.csdn.net/fengtingyan/article/details/88371232
 
+##### Node.js官网:https://nodejs.org/en/download/
+
+##### mongoose文档:https://mongoosejs.com/
+
 #### 常用命令
 
 ```sql
