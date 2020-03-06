@@ -2,6 +2,8 @@
 
 ##### MongoDB官网:https://mongodb.com
 
+##### MongoDB中文文档:http://www.mongoing.com/docs/
+
 ##### 图形化界面Robo 3T官网:https://robomongo.org
 
 ##### MomgoDB安装教程:https://blog.csdn.net/fengtingyan/article/details/88371232
