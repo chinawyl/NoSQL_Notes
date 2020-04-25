@@ -103,7 +103,7 @@ $unset:删除文档指定属性
 db.users.update(
     {"_id":ObjectId("5e5b5771158578a536d1eb5a")},
     {$set:{
-        name:"wsc"
+        name:"wsc",
     	address:"CN"
     }}
 )
