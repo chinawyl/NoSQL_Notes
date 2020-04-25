@@ -20,7 +20,7 @@
 
 ### 三、Hadoop 1.x 和 Hadoop 2.x的区别
 
-![001](D:\NoSQL_Notes\Hadoop\1-Hadoop概述\001.png)
+![001](001.png)
 
 <br>
 
@@ -28,11 +28,11 @@
 
 #### 1.HDFS架构
 
-##### ![002](D:\NoSQL_Notes\Hadoop\1-Hadoop概述\002.png)
+##### ![002](002.png)
 
 #### 2.Yarn架构
 
-![003](D:\NoSQL_Notes\Hadoop\1-Hadoop概述\003.png)
+![003](003.png)
 
 #### 3.MapReduce架构
 
