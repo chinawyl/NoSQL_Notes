@@ -20,7 +20,7 @@
 
 ### 三、Hadoop 1.x 和 Hadoop 2.x的区别
 
-![001](D:\NoSQL_Notes\Hadoop\1-Hadoop概述\001.png)
+![001](001.png)
 
 <br>
 
@@ -28,11 +28,11 @@
 
 #### 1.HDFS架构
 
-##### ![002](D:\NoSQL_Notes\Hadoop\1-Hadoop概述\002.png)
+![002](002.png)
 
 #### 2.Yarn架构
 
-![003](D:\NoSQL_Notes\Hadoop\1-Hadoop概述\003.png)
+![003](003.png)
 
 #### 3.MapReduce架构
 
@@ -42,7 +42,19 @@
 
 <br>
 
-## Hadoop目录结构
+## 五、Hadoop部署方式
+
+##### 1.独立模式
+
+##### 2.伪分布式模式
+
+##### 3.群集模式
+
+##### 注:前两种部署都是在单机部署
+
+<br>
+
+## 六、Hadoop目录结构
 
 **1.bin**：bin目录是Hadoop最基本的管理脚本和使用脚本所在的目录，这些脚本是sbin目录下管理脚本的基础实现，用户可以直接使用这些脚本管理和使用Hadoop
 
